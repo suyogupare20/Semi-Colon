@@ -1,0 +1,22 @@
+.table{
+    background-color: white;
+}
+.btn-success{
+    background-color: black;
+}
+.btn-success:hover{
+    background-color: grey;
+    border:none;
+    color: black;
+    font-weight: bold;
+}
+.search{
+    margin-left:73%;
+    padding-right: 2%;
+}
+.table{
+    border-radius: 10px;
+}
+.table-color{
+    background-color: grey;
+}

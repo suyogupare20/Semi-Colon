@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\semicolon.Data\semicolon.Data.csproj" />
+    <ProjectReference Include="..\semicolon.DB\semicolon.DB.csproj" />
+    <ProjectReference Include="..\semicolon.DTO\semicolon.DTO.csproj" />
+  </ItemGroup>
+
+</Project>
